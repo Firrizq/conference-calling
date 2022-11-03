@@ -156,26 +156,26 @@ ul li a:hover{
     color: white;
     background-color: #4FA0ED;
     margin-left: 172px;
-    transition: 1s;
+    transition: .3s;
 }
 
 .try:hover {
     color: #4FA0ED;
     background-color: white;
-    scale: 1.1;
-    transition: 1s;
+    scale: .9;
+    transition: .3s;
 }
 
 .demo {
     color: white;
     background-color: #2B2937;
     margin-left: 16px;
-    transition: 1s;
+    transition: .3s;
 }
 
 .demo:hover {
     color: #2B2937;
     background-color: white;
-    scale: 1.1;
-    transition: 1s;
+    scale: .9;
+    transition: .3s;
 }
